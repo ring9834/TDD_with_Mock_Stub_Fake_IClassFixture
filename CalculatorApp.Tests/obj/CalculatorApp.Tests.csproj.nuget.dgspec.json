@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects_T\\C#\\TDD use\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj": {}
+    "D:\\GitHub\\TDD_with_Mock_Stub_Fake_IClassFixture\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj": {}
   },
   "projects": {
-    "D:\\Projects_T\\C#\\TDD use\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj": {
+    "D:\\GitHub\\TDD_with_Mock_Stub_Fake_IClassFixture\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects_T\\C#\\TDD use\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj",
+        "projectUniqueName": "D:\\GitHub\\TDD_with_Mock_Stub_Fake_IClassFixture\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj",
         "projectName": "CalculatorApp.Tests",
-        "projectPath": "D:\\Projects_T\\C#\\TDD use\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj",
+        "projectPath": "D:\\GitHub\\TDD_with_Mock_Stub_Fake_IClassFixture\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj",
         "packagesPath": "C:\\Users\\Flyinz\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects_T\\C#\\TDD use\\CalculatorApp.Tests\\obj\\",
+        "outputPath": "D:\\GitHub\\TDD_with_Mock_Stub_Fake_IClassFixture\\CalculatorApp.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Installed\\DevExpress 23.1\\Components\\Offline Packages",
@@ -39,8 +39,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\Projects_T\\C#\\TDD use\\CalculatorApp\\CalculatorApp.csproj": {
-                "projectPath": "D:\\Projects_T\\C#\\TDD use\\CalculatorApp\\CalculatorApp.csproj"
+              "D:\\GitHub\\TDD_with_Mock_Stub_Fake_IClassFixture\\CalculatorApp\\CalculatorApp.csproj": {
+                "projectPath": "D:\\GitHub\\TDD_with_Mock_Stub_Fake_IClassFixture\\CalculatorApp\\CalculatorApp.csproj"
               }
             }
           }
@@ -106,14 +106,14 @@
         }
       }
     },
-    "D:\\Projects_T\\C#\\TDD use\\CalculatorApp\\CalculatorApp.csproj": {
+    "D:\\GitHub\\TDD_with_Mock_Stub_Fake_IClassFixture\\CalculatorApp\\CalculatorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects_T\\C#\\TDD use\\CalculatorApp\\CalculatorApp.csproj",
+        "projectUniqueName": "D:\\GitHub\\TDD_with_Mock_Stub_Fake_IClassFixture\\CalculatorApp\\CalculatorApp.csproj",
         "projectName": "CalculatorApp",
-        "projectPath": "D:\\Projects_T\\C#\\TDD use\\CalculatorApp\\CalculatorApp.csproj",
+        "projectPath": "D:\\GitHub\\TDD_with_Mock_Stub_Fake_IClassFixture\\CalculatorApp\\CalculatorApp.csproj",
         "packagesPath": "C:\\Users\\Flyinz\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects_T\\C#\\TDD use\\CalculatorApp\\obj\\",
+        "outputPath": "D:\\GitHub\\TDD_with_Mock_Stub_Fake_IClassFixture\\CalculatorApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Installed\\DevExpress 23.1\\Components\\Offline Packages",

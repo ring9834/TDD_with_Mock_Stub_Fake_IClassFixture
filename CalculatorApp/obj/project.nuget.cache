@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kz6TWu5am8U=",
+  "dgSpecHash": "ZlIZ3xoL2H0=",
   "success": true,
-  "projectFilePath": "D:\\Projects_T\\C#\\TDD use\\CalculatorApp\\CalculatorApp.csproj",
+  "projectFilePath": "D:\\GitHub\\TDD_with_Mock_Stub_Fake_IClassFixture\\CalculatorApp\\CalculatorApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

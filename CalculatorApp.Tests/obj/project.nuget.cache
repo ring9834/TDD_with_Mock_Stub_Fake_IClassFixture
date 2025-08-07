@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N5ZWIOnGokg=",
+  "dgSpecHash": "4l0VvM8Y0cQ=",
   "success": true,
-  "projectFilePath": "D:\\Projects_T\\C#\\TDD use\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj",
+  "projectFilePath": "D:\\GitHub\\TDD_with_Mock_Stub_Fake_IClassFixture\\CalculatorApp.Tests\\CalculatorApp.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Flyinz\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Flyinz\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
