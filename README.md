@@ -225,10 +225,15 @@ public void Add_VariousInputs_ReturnsCorrectSum(int a, int b, int expected)
 
 ## Best Practices for TDD in C#
 Write Clear Tests: Use the Arrange-Act-Assert (AAA) pattern for readability.
+
 One Assertion per Test: Avoid multiple assertions unless testing a single behavior.
+
 Keep Tests Fast: Unit tests should run quickly to maintain productivity.
+
 Avoid Testing Implementation: Test what the code does, not how it does it.
+
 Use Descriptive Test Names: for example, Add_TwoNumbers_ReturnsSum is clear and specific.
+
 Maintain Test Isolation: Tests should not depend on each other or external state.
 Refactor Tests: Keep tests clean, just like production code.
 
